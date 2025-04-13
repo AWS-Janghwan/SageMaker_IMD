@@ -36,3 +36,4 @@ AWS AI/ML 전문가들이 직접 안내하는 이번 워크샵을 통해 최신 
 
 ### [Lab 3. ML 파이프라인 (Pipeline)](lab_3_pipeline)
 자동화된 end-to-end ML 워크플로 구축 및 오케스트레이션
+# SageMaker_IMD
