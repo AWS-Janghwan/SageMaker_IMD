@@ -34,4 +34,3 @@ AWS와 함께 SageMaker에 대해 알아보고 직접 실습을 하며 원활하
 
 ### [Lab 3. ML 파이프라인 (Pipeline)](lab_3_pipeline)
 자동화된 end-to-end ML 워크플로 구축 및 오케스트레이션
-# SageMaker_IMD
